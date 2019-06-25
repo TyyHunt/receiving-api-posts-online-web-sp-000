@@ -6774,3 +6774,11 @@ Processing by PostsController#post_data as */*
 Completed 200 OK in 22ms (Views: 3.3ms | ActiveRecord: 0.8ms)
 
 
+Started GET "/posts/new" for 67.177.248.33 at 2019-06-25 00:48:47 +0000
+Cannot render console from 67.177.248.33! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#new as HTML
+  Rendering posts/new.html.erb within layouts/application
+  Rendered posts/new.html.erb within layouts/application (11.6ms)
+Completed 200 OK in 21ms (Views: 19.6ms | ActiveRecord: 0.0ms)
+
+
