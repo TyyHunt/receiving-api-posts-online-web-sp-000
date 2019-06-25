@@ -6782,3 +6782,6 @@ Processing by PostsController#new as HTML
 Completed 200 OK in 21ms (Views: 19.6ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/posts/new" for 67.177.248.33 at 2019-06-25 01:05:57 +0000
+Cannot render console from 67.177.248.33! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by PostsController#new as HTML
